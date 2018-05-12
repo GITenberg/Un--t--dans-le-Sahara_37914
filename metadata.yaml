@@ -1,0 +1,33 @@
+_repo: Un--t--dans-le-Sahara_37914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fromentin, Eugène
+    aliases:
+    - Fromentin, Eugene
+    - Fromentin-Dupeux, Eugène
+    - Fromentin, Samuel Auguste Eugène
+    birthdate: 1820
+    deathdate: 1876
+    gutenberg_agent_id: '32054'
+    url: http://www.gutenberg.org/2009/agents/32054
+    wikipedia: http://en.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37914'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sahara -- Description and travel'
+- !lcsh 'Fromentin, Eugène, 1820-1876'
+- !lcc 'DT'
+title: Un été dans le Sahara
+url: http://www.gutenberg.org/ebooks/37914
