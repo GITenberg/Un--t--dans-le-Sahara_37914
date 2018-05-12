@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32054
     wikipedia: http://en.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37914#Un--t--dans-le-Sahara
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2011-11-02'
 gutenberg_type: Text
